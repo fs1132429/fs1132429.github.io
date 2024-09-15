@@ -4,17 +4,17 @@
     - name: Full Name
       value: Freya Shah
     - name: Languages
-      value: English, Hindi, Gujarati, Spanish(learning)
+      value: English, Hindi, Gujarati, Spanish (learning)
+
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelors of Science(Honours)
+    - title: Bachelors of Science (Honours)
       institution: Ahmedabad University
       year: 2021 - 2025
       description:
-        - Computer Science,
-        - With Honors.
+        - Major in Computer Science
         - Minor in Physics and Mathematics
 
 - title: Experience
@@ -45,13 +45,14 @@
       institution: QWorld
       year: 2021
       description:
-        - Advisors. Dr. Shashank Gupta
+        - Advisor. Dr. Shashank Gupta
         - Project. Eavesdropping a quantum key distribution network using sequential quantum unsharp measurement attacks
         
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Quantum Information and Computation
+    - title: Quantum Information 
+    - title: Quantum Computation
     - title: Quantum Machine Learning
     - title: Quantum Optics
 
